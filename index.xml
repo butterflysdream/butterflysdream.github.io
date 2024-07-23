@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蝴蝶的梦空间</title>
-    <link>https://butterflysdream.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 蝴蝶的梦空间</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 22 Jul 2024 23:06:56 +0800</lastBuildDate>
-    <atom:link href="https://butterflysdream.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://butterflysdream.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 22 Jul 2024 23:06:56 +0800</pubDate>
-      <guid>https://butterflysdream.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
